@@ -12,7 +12,7 @@
 ### :technologist: About Me:
 :id: ADRIAN BATALLA
   
-I am a BackEnd Developer from Chiapas.
+I am a BackEnd Developer.
 
 ---
 ### :computer_mouse::computer: Languages and Tools :
